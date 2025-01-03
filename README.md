@@ -1,2 +1,2 @@
 # test
-proper desc
+should be proper desc
